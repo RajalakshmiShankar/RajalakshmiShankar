@@ -1,6 +1,6 @@
 👋 Hi all, I’m Rajalakshmi Shankar
 
-✨Aspiring Wb Developer
+✨Aspiring Web Developer
 
 - 👀 I’m a BTech student at Amal Jyothi College Of Engineering.
 - 🌱 I’m currently learning website development.
