@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning website development.
 - 📫 How to reach me: laxmi.achu003@gmail.com
 - 😄 Pronouns: She/Her
+
+- 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajalakshmiShankar)](https://github.com/RajalakshmiShankar/github-readme-stats)
 
 <!---
