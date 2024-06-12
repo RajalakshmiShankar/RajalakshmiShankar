@@ -1,25 +1,29 @@
-# Hi all, I’m Rajalakshmi Shankar👋
+<h1 align="center">Hi 👋, I'm Rajalakshmi Shankar</h1>
+<h2 align="center">✨Aspiring Web Developer</h2>
 
-✨Aspiring Web Developer
 
 - 👀 I’m a BTech student at Amal Jyothi College Of Engineering.
 - 🌱 I’m currently learning website development.
 - 📫 How to reach me: laxmi.achu003@gmail.com
 - 😄 Pronouns: She/Her
+<h3>🚀Let's unite our talents to produce something fantastic</h3>
+<br>
 
-- My Status✨
-
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RajalakshmiShankar)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9/) 
-
+[![Linkedin: Raja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)](https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajalakshmiShankar)
+<br><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=RajalakshmiShankar)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajalakshmiShankar)](https://github.com/anuraghazra/github-readme-stats)
+## 🧰 &nbsp;Github stats
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajalakshmiShankar&show_icons=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RajalakshmiShankar)  
+  
+
+
 
 <!---
 RajalakshmiShankar/RajalakshmiShankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
