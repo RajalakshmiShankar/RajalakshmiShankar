@@ -12,8 +12,9 @@
 [![Linkedin: Raja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)](https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajalakshmiShankar)
 <br><br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=RajalakshmiShankar)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RajalakshmiShankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
 ## 🧰 &nbsp;Github stats
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
