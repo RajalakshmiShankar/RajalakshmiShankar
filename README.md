@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajalakshmi Shankar</h1>
 <h2 align="center">✨Aspiring Web Developer</h2>
-<div align="center">
- <h4>
- 👀 I’m a BTech student at Amal Jyothi College Of Engineering. <br>
- 🌱 I’m currently learning website development. <br>
- 📫 How to reach me: <a href="laxmi.achu003@gmail.com">laxmi.achu003@gmail.com </a> <br>
- 😄 Pronouns: She/Her
-</h4>
+
+- 👀 I’m a BTech student at Amal Jyothi College Of Engineering. 
+- 🌱 I’m currently learning website development.
+- 📫 How to reach me: laxmi.achu003@gmail.com 
+- 😄 Pronouns: She/Her
+
  <hr/>
 <h3>🚀Let's unite our talents to produce something fantastic</h3>
 <br>
@@ -17,34 +16,47 @@
 <hr/>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+ 
 ![](https://github-profile-trophy.vercel.app/?username=RajalakshmiShankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
 <hr/>
 
 ## 💬 Languages and Tools
+<div align="center">
+ 
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+ </div>
+ 
  <hr/>
  
 ## 🧰 &nbsp;Github stats
+<div align="center">
+ 
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+</div>
 <hr/>
 
 ## 🔥 GitHub Streak
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
-
+</div>
 <hr/>
 
 ##  📫 Top Languages Used
 
+<div align="center">
+ 
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-
 </div>
+
 
 
   
