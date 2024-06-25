@@ -24,14 +24,12 @@
 <hr/>
 
 ## 💬 Languages and Tools
-<div align="center">
- 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 
- </div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,java,html,css" />
+  </a>
+</p>
  
  <hr/>
  
