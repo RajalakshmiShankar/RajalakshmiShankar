@@ -12,7 +12,7 @@
 
 [![Linkedin: Raja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)](https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajalakshmiShankar)
- <a href="https://www.instagram.com/lakshmi_achu_03/" target="_blank">
+ <a href="https://www.instagram.com/_lakshmi_achu_03_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
   </a>
 
