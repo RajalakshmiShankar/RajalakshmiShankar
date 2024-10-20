@@ -25,8 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RajalakshmiShankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-<hr/>
- 
+
 ## 📈 Skills
 
  <p align="center">
@@ -34,8 +33,6 @@
     <img src="https://skillicons.dev/icons?i=c,py,java,html,css,bootstrap,mysql,js,oracle " />
   </a>
 </p>
- 
- <hr/>
 
  ## 💻 Software
 
@@ -45,21 +42,17 @@
   </a>
 </p>
  
- <hr/>
- 
 ## 🧰 &nbsp;Github stats
 <div align="center">
  
 ![](https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=RajalakshmiShankar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
-<hr/>
 
 ## 🔥 GitHub Streak
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajalakshmiShankar&theme=radical&hide_border=false)<br/>
 </div>
-<hr/>
 
 ##  📫 Top Languages Used
 
