@@ -9,6 +9,7 @@
  <hr/>
 <h3>🚀Let's unite our talents to produce something fantastic</h3>
 <br>
+<div align = "center" >
 
 [![Linkedin: Raja](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)](https://www.linkedin.com/in/rajalakshmi-shankar-3390b22b9)
 [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajalakshmiShankar)
@@ -25,9 +26,8 @@
 
 </div>
 <hr/>
-<div align = "center" >
  
-## Skills
+## 📈 Skills
 
  <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
  
  <hr/>
 
- ## Software
+ ## 💻 Software
 
  <p align="center">
   <a href="https://skillicons.dev">
