@@ -25,8 +25,9 @@
 
 </div>
 <hr/>
-
-## 💬 Skills
+<div align = "center" >
+ 
+## Skills
 
  <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +37,7 @@
  
  <hr/>
 
- ## 💬 Software
+ ## Software
 
  <p align="center">
   <a href="https://skillicons.dev">
@@ -74,7 +75,7 @@
 [![](https://visitcount.itsvg.in/api?id=RajalakshmiShankar&icon=0&color=0)](#Visitors)
 
   </div>
-
+<div/>
 
 
 <!---
