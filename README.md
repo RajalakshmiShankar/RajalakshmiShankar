@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/Her
 
  <hr/>
-<h3>🚀Let's unite our talents to produce something fantastic...</h3>
+<h3>🚀Let's unite our talents to produce something fantastic....</h3>
 <br>
 <div align = "center" >
 
